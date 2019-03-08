@@ -1,20 +1,10 @@
 {
   "presets": [
-    [
-      "env",
-      {
-        "targets": {
-          "browsers": [
-            ">0.25%",
-            "not ie 11",
-            "not op_mini all",
-            "not android <= 4.4",
-            "not samsung <= 4"
-          ]
-        },
-        "useBuiltIns": true
+    ["env", {
+      "targets": {
+        "browsers": ["last 2 versions", "ie >= 10"]
       }
-    ]
+    }]
   ],
   "plugins": [
     "dynamic-import-node",
