@@ -1,3 +1,7 @@
+# This repository is no longer in active use
+
+This fork was used temporarily in develoment of a feature to export Code.org student projects as native iOS/Android apps (eg, [in this PR](https://github.com/code-dot-org/code-dot-org/pull/27412)). If you're looking for the main Snack repo, visit [here](https://github.com/expo/snack) (as of September 2022).
+
 # Snack SDK
 The Expo Snack SDK. Use this to create a custom web interface for https://snack.expo.io/.  For brevity, these docs assume you are targeting the most recent version of Expo SDK
 
